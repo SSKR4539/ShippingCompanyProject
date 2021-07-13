@@ -2,6 +2,8 @@ package com.shipping_Company.model;
 
 import java.sql.SQLException;
 
+
+
 public class test {
 
 	public static void main(String[] args) throws SQLException {
